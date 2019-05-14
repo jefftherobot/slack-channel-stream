@@ -1,0 +1,1867 @@
+{
+  "ok": true,
+  "messages": [{
+    "client_msg_id": "3D9FF144-FEFA-4D49-9A62-40095BF30F0C",
+    "type": "message",
+    "text": ":white_frowning_face:",
+    "user": "U6Q89ADEJ",
+    "ts": "1557324389.000500"
+  }, {
+    "bot_id": "BBB8A6C8G",
+    "type": "message",
+    "text": "",
+    "user": "UBC3GJT1T",
+    "ts": "1557324275.000300",
+    "attachments": [{
+      "fallback": "Printer disconnected",
+      "pretext": ":heavy_minus_sign:  Printer disconnected :worried:",
+      "footer": "Printer: Offline (Error: Too many consecutive timeouts, printer still connected and alive?)",
+      "id": 1,
+      "color": "a30200",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "bot_id": "BBB8A6C8G",
+    "type": "message",
+    "text": "",
+    "user": "UBC3GJT1T",
+    "ts": "1557324275.000200",
+    "attachments": [{
+      "fallback": "Printer error: Too many consecutive timeouts, printer still connected and alive?",
+      "text": "*Error* Too many consecutive timeouts, printer still connected and alive?",
+      "pretext": ":heavy_minus_sign:  Printer error :fire:",
+      "footer": "Printer: Operational, Bed: 29.4\u00b0C\/60.0\u00b0C, Nozzle: 83.3\u00b0C\/0.0\u00b0C",
+      "id": 1,
+      "color": "a30200",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "bot_id": "BBB8A6C8G",
+    "type": "message",
+    "text": "",
+    "user": "UBC3GJT1T",
+    "ts": "1557320357.000100",
+    "attachments": [{
+      "fallback": "Print cancelled: Pattern_9x9_Flat_NoEdge_0.15mm_PLA_MK3.gcode",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_15726f2b719111e9b802784f43907318.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 233496,
+      "text": "*File* Pattern_9x9_Flat_NoEdge_0.15mm_PLA_MK3.gcode (16.9MB via OctoPrint)",
+      "pretext": ":heavy_minus_sign:  Print cancelled :no_good:",
+      "footer": "Printer: Cancelling, Bed: 23.8\u00b0C\/0.0\u00b0C, Nozzle: 23.2\u00b0C\/0.0\u00b0C",
+      "id": 1,
+      "color": "daa038",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "bot_id": "BBB8A6C8G",
+    "type": "message",
+    "text": "",
+    "user": "UBC3GJT1T",
+    "ts": "1557301080.000100",
+    "attachments": [{
+      "fallback": "Print paused: 52% - Pattern_9x9_Flat_NoEdge_0.15mm_PLA_MK3.gcode",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_338859ca716411e9ac90784f43907318.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 13551,
+      "text": "*File* Pattern_9x9_Flat_NoEdge_0.15mm_PLA_MK3.gcode (16.9MB via OctoPrint)\n*Estimated print time* 1 day 9 hours 1 minute\n*ETA* 12:39 PM tomorrow\n*Elapsed* 14 hours 44 minutes\n*Remaining* 1 day 9 hours 1 minute\n*ETA* 12:39 PM tomorrow",
+      "pretext": ":heavy_minus_sign:  Print paused :zzz:",
+      "footer": "Printer: Pausing, Bed: 60.2\u00b0C\/60.0\u00b0C, Nozzle: 209.1\u00b0C\/210.0\u00b0C, Nozzle Height: 7.55mm",
+      "id": 1,
+      "color": "daa038",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "bot_id": "BBB8A6C8G",
+    "type": "message",
+    "text": "",
+    "user": "UBC3GJT1T",
+    "ts": "1557272992.000100",
+    "edited": {
+      "user": "UBC3GJT1T",
+      "ts": "1557296743.000000"
+    },
+    "attachments": [{
+      "fallback": "Print progress: 50% - Pattern_9x9_Flat_NoEdge_0.15mm_PLA_MK3.gcode, Elapsed: 13 hours 31 minutes, Remaining: 13 hours 30 minutes",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_1aca94b5715a11e99433784f43907318.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 15267,
+      "text": "*File* Pattern_9x9_Flat_NoEdge_0.15mm_PLA_MK3.gcode (16.9MB via OctoPrint)\n*Elapsed* 13 hours 31 minutes\n*Remaining* 13 hours 30 minutes\n*ETA* 03:55 PM today",
+      "pretext": ":heavy_minus_sign: Print progress 50% :horse_racing:",
+      "footer": "Printer: Printing, Bed: 59.9\u00b0C\/60.0\u00b0C, Nozzle: 211.1\u00b0C\/210.0\u00b0C, Nozzle Height: 5.90mm",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "bot_id": "BBB8A6C8G",
+    "type": "message",
+    "text": "",
+    "user": "UBC3GJT1T",
+    "ts": "1557248026.000500",
+    "attachments": [{
+      "fallback": "Print started: Pattern_9x9_Flat_NoEdge_0.15mm_PLA_MK3.gcode, Estimate: 1 day 9 hours 1 minute",
+      "text": "*File* Pattern_9x9_Flat_NoEdge_0.15mm_PLA_MK3.gcode (16.9MB via OctoPrint)\n*Estimated print time* 1 day 9 hours 1 minute\n*ETA* 09:55 PM tomorrow",
+      "pretext": ":heavy_minus_sign:  A new print has started :rocket:",
+      "footer": "Printer: Printing, Bed: 60.1\u00b0C\/60.0\u00b0C, Nozzle: 216.4\u00b0C\/215.0\u00b0C",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "bot_id": "BBB8A6C8G",
+    "type": "message",
+    "text": "",
+    "user": "UBC3GJT1T",
+    "ts": "1557247930.000400",
+    "attachments": [{
+      "fallback": "Successfully connected to printer",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_702451cf70e811e9853f784f43907318.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 185334,
+      "pretext": ":heavy_minus_sign:  Successfully connected to printer :computer:",
+      "footer": "Printer: Operational",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "bot_id": "BBB8A6C8G",
+    "type": "message",
+    "text": "",
+    "user": "UBC3GJT1T",
+    "ts": "1557247894.000300",
+    "attachments": [{
+      "fallback": "Printer disconnected",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_5e6fa5e870e811e9b9f8784f43907318.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 182980,
+      "pretext": ":heavy_minus_sign:  Printer disconnected :worried:",
+      "footer": "Printer: Offline",
+      "id": 1,
+      "color": "a30200",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "bot_id": "BBB8A6C8G",
+    "type": "message",
+    "text": "",
+    "user": "UBC3GJT1T",
+    "ts": "1557247886.000200",
+    "attachments": [{
+      "fallback": "Printer disconnected",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_597b871e70e811e9830a784f43907318.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 182363,
+      "pretext": ":heavy_minus_sign:  Printer disconnected :worried:",
+      "footer": "Printer: Offline",
+      "id": 1,
+      "color": "a30200",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "bot_id": "BBB8A6C8G",
+    "type": "message",
+    "text": "",
+    "user": "UBC3GJT1T",
+    "ts": "1557247843.000100",
+    "attachments": [{
+      "fallback": "Printer disconnected",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_3f7cfaab70e811e9a34a784f43907318.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 185128,
+      "pretext": ":heavy_minus_sign:  Printer disconnected :worried:",
+      "footer": "Printer: Offline",
+      "id": 1,
+      "color": "a30200",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "bot_id": "BBB8A6C8G",
+    "type": "message",
+    "text": "",
+    "user": "UBC3GJT1T",
+    "ts": "1557247098.000200",
+    "attachments": [{
+      "fallback": "Printer disconnected",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_837c76eb70e611e995a0784f43907318.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 217735,
+      "pretext": ":heavy_minus_sign:  Printer disconnected :worried:",
+      "footer": "Printer: Offline (Error: Too many consecutive timeouts, printer still connected and alive?)",
+      "id": 1,
+      "color": "a30200",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "bot_id": "BBB8A6C8G",
+    "type": "message",
+    "text": "",
+    "user": "UBC3GJT1T",
+    "ts": "1557247098.000100",
+    "attachments": [{
+      "fallback": "Printer error: Too many consecutive timeouts, printer still connected and alive?",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_83515b1970e611e9b2e4784f43907318.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 217735,
+      "text": "*Error* Too many consecutive timeouts, printer still connected and alive?",
+      "pretext": ":heavy_minus_sign:  Printer error :fire:",
+      "footer": "Printer: Operational, Bed: 58.6\u00b0C\/60.0\u00b0C, Nozzle: 213.2\u00b0C\/215.0\u00b0C",
+      "id": 1,
+      "color": "a30200",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "bot_id": "BBB8A6C8G",
+    "type": "message",
+    "text": "",
+    "user": "UBC3GJT1T",
+    "ts": "1557233348.000500",
+    "attachments": [{
+      "fallback": "Successfully connected to printer",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_7e4742f870c611e9b874784f43907318.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 214823,
+      "pretext": ":heavy_minus_sign:  Successfully connected to printer :computer:",
+      "footer": "Printer: Operational",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "bot_id": "BBB8A6C8G",
+    "type": "message",
+    "text": "",
+    "user": "UBC3GJT1T",
+    "ts": "1557233298.000400",
+    "attachments": [{
+      "fallback": "Timelapse movie rendering complete: N\/A",
+      "text": "*Movie* Extra_Front_Case_No_HDMI_20190506162632.mpg\n*Print job* Extra_Front_Case_No_HDMI.gcode",
+      "pretext": ":heavy_minus_sign:  Timelapse movie rendering complete :movie_camera:",
+      "footer": "Printer: Offline (Error: Printer requested line 1 but no sufficient history is available, can't resend)",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "bot_id": "BBB8A6C8G",
+    "type": "message",
+    "text": "",
+    "user": "UBC3GJT1T",
+    "ts": "1557233285.000300",
+    "attachments": [{
+      "fallback": "Printer disconnected",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_5aa58b2170c611e9a2c3784f43907318.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 238959,
+      "pretext": ":heavy_minus_sign:  Printer disconnected :worried:",
+      "footer": "Printer: Offline (Error: Printer requested line 1 but no sufficient history is available, can't resend)",
+      "id": 1,
+      "color": "a30200",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "bot_id": "BBB8A6C8G",
+    "type": "message",
+    "text": "",
+    "user": "UBC3GJT1T",
+    "ts": "1557233285.000200",
+    "attachments": [{
+      "fallback": "Printer error: Printer requested line 1 but no sufficient history is available, can't resend",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_5abc0f5770c611e984cb784f43907318.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 238959,
+      "text": "*Error* Printer requested line 1 but no sufficient history is available, can't resend",
+      "pretext": ":heavy_minus_sign:  Printer error :fire:",
+      "footer": "Printer: Error: Printer requested line 1 but no sufficient history is available, can't resend, Bed: 60.1\u00b0C\/60.0\u00b0C, Nozzle: 209.9\u00b0C\/210.0\u00b0C, Nozzle Height: 2.25mm",
+      "id": 1,
+      "color": "a30200",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "bot_id": "BBB8A6C8G",
+    "type": "message",
+    "text": "",
+    "user": "UBC3GJT1T",
+    "ts": "1557233285.000100",
+    "attachments": [{
+      "fallback": "Print failed: N\/A",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_5aaf73c270c611e9b958784f43907318.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 238959,
+      "text": "*File* N\/A",
+      "pretext": ":heavy_minus_sign:  Print failed :bomb:",
+      "footer": "Printer: Offline (Error: Printer requested line 1 but no sufficient history is available, can't resend)",
+      "id": 1,
+      "color": "a30200",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "bot_id": "BBB8A6C8G",
+    "type": "message",
+    "text": "",
+    "user": "UBC3GJT1T",
+    "ts": "1557174399.000200",
+    "attachments": [{
+      "fallback": "Print started: Extra_Front_Case_No_HDMI.gcode, Estimate: 13 hours 12 minutes",
+      "text": "*File* Extra_Front_Case_No_HDMI.gcode (19.0MB via OctoPrint)\n*Estimated print time* 13 hours 12 minutes\n*ETA* 05:38 AM tomorrow",
+      "pretext": ":heavy_minus_sign:  A new print has started :rocket:",
+      "footer": "Printer: Printing, Bed: 47.7\u00b0C\/0.0\u00b0C, Nozzle: 121.0\u00b0C\/0.0\u00b0C",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "bot_id": "BBB8A6C8G",
+    "type": "message",
+    "text": "",
+    "user": "UBC3GJT1T",
+    "ts": "1557174376.000100",
+    "attachments": [{
+      "fallback": "Successfully connected to printer",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_315cbe63703d11e9842a784f43907318.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 183458,
+      "pretext": ":heavy_minus_sign:  Successfully connected to printer :computer:",
+      "footer": "Printer: Operational",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "bot_id": "BBB8A6C8G",
+    "type": "message",
+    "text": "",
+    "user": "UBC3GJT1T",
+    "ts": "1557166347.000200",
+    "attachments": [{
+      "fallback": "Printer error: Too many consecutive timeouts, printer still connected and alive?",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_80cbfec0702a11e98e21784f43907318.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 248198,
+      "text": "*Error* Too many consecutive timeouts, printer still connected and alive?",
+      "pretext": ":heavy_minus_sign:  Printer error :fire:",
+      "footer": "Printer: Operational, Bed: 58.8\u00b0C\/0.0\u00b0C, Nozzle: 192.2\u00b0C\/0.0\u00b0C",
+      "id": 1,
+      "color": "a30200",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "bot_id": "BBB8A6C8G",
+    "type": "message",
+    "text": "",
+    "user": "UBC3GJT1T",
+    "ts": "1557166347.000100",
+    "attachments": [{
+      "fallback": "Printer disconnected",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_80437335702a11e9ab76784f43907318.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 247994,
+      "pretext": ":heavy_minus_sign:  Printer disconnected :worried:",
+      "footer": "Printer: Offline (Error: Too many consecutive timeouts, printer still connected and alive?)",
+      "id": 1,
+      "color": "a30200",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "bot_id": "BBB8A6C8G",
+    "type": "message",
+    "text": "",
+    "user": "UBC3GJT1T",
+    "ts": "1557164819.000200",
+    "attachments": [{
+      "fallback": "Timelapse movie rendering complete: Extra_Front_Case_No_HDMI.gcode",
+      "text": "*Movie* Extra_Front_Case_No_HDMI_20190506133951.mpg\n*Print job* Extra_Front_Case_No_HDMI.gcode",
+      "pretext": ":heavy_minus_sign:  Timelapse movie rendering complete :movie_camera:",
+      "footer": "Printer: Cancelling, Bed: 49.9\u00b0C\/50.0\u00b0C, Nozzle: 210.7\u00b0C\/210.0\u00b0C",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "bot_id": "BBB8A6C8G",
+    "type": "message",
+    "text": "",
+    "user": "UBC3GJT1T",
+    "ts": "1557164817.000100",
+    "attachments": [{
+      "fallback": "Print cancelled: Extra_Front_Case_No_HDMI.gcode",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_f0d3d411702611e9b7e6784f43907318.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 262156,
+      "text": "*File* Extra_Front_Case_No_HDMI.gcode (19.0MB via OctoPrint)",
+      "pretext": ":heavy_minus_sign:  Print cancelled :no_good:",
+      "footer": "Printer: Cancelling, Bed: 49.9\u00b0C\/50.0\u00b0C, Nozzle: 210.7\u00b0C\/210.0\u00b0C",
+      "id": 1,
+      "color": "daa038",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "bot_id": "BBB8A6C8G",
+    "type": "message",
+    "text": "",
+    "user": "UBC3GJT1T",
+    "ts": "1557164393.002800",
+    "attachments": [{
+      "fallback": "Print started: Extra_Front_Case_No_HDMI.gcode, Estimate: N\/A",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_f3cbba3a702511e9b8f7784f43907318.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 216756,
+      "text": "*File* Extra_Front_Case_No_HDMI.gcode (19.0MB via OctoPrint)\n*Estimated print time* N\/A\n*ETA* N\/A",
+      "pretext": ":heavy_minus_sign:  A new print has started :rocket:",
+      "footer": "Printer: Printing, Bed: 57.0\u00b0C\/0.0\u00b0C, Nozzle: 160.1\u00b0C\/0.0\u00b0C",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "bot_id": "BBB8A6C8G",
+    "type": "message",
+    "text": "",
+    "user": "UBC3GJT1T",
+    "ts": "1557164256.002700",
+    "attachments": [{
+      "fallback": "Print cancelled: Extra_Front_Case_No_HDMI.gcode",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_a26ab79c702511e9a8c2784f43907318.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 217615,
+      "text": "*File* Extra_Front_Case_No_HDMI.gcode (19.0MB via OctoPrint)",
+      "pretext": ":heavy_minus_sign:  Print cancelled :no_good:",
+      "footer": "Printer: Cancelling, Bed: 41.7\u00b0C\/60.0\u00b0C, Nozzle: 156.57\u00b0C\/215.0\u00b0C",
+      "id": 1,
+      "color": "daa038",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "bot_id": "BBB8A6C8G",
+    "type": "message",
+    "text": "",
+    "user": "UBC3GJT1T",
+    "ts": "1557164256.002600",
+    "attachments": [{
+      "fallback": "Timelapse movie rendering complete: Extra_Front_Case_No_HDMI.gcode",
+      "text": "*Movie* Extra_Front_Case_No_HDMI_20190506133647.mpg\n*Print job* Extra_Front_Case_No_HDMI.gcode",
+      "pretext": ":heavy_minus_sign:  Timelapse movie rendering complete :movie_camera:",
+      "footer": "Printer: Cancelling, Bed: 41.7\u00b0C\/60.0\u00b0C, Nozzle: 156.57\u00b0C\/215.0\u00b0C",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "bot_id": "BBB8A6C8G",
+    "type": "message",
+    "text": "",
+    "user": "UBC3GJT1T",
+    "ts": "1557164209.002500",
+    "attachments": [{
+      "fallback": "Print started: Extra_Front_Case_No_HDMI.gcode, Estimate: 13 hours 12 minutes",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_85ee0ad9702511e9a696784f43907318.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 217485,
+      "text": "*File* Extra_Front_Case_No_HDMI.gcode (19.0MB via OctoPrint)\n*Estimated print time* 13 hours 12 minutes\n*ETA* 02:49 AM tomorrow",
+      "pretext": ":heavy_minus_sign:  A new print has started :rocket:",
+      "footer": "Printer: Printing, Bed: 30.7\u00b0C\/0.0\u00b0C, Nozzle: 45.5\u00b0C\/0.0\u00b0C",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "bot_id": "BBB8A6C8G",
+    "type": "message",
+    "text": "",
+    "user": "UBC3GJT1T",
+    "ts": "1557163892.002400",
+    "attachments": [{
+      "fallback": "Successfully connected to printer",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_c8fa3117702411e988c7784f43907318.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 222239,
+      "pretext": ":heavy_minus_sign:  Successfully connected to printer :computer:",
+      "footer": "Printer: Operational",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "bot_id": "BBB8A6C8G",
+    "type": "message",
+    "text": "",
+    "user": "UBC3GJT1T",
+    "ts": "1557163711.002300",
+    "attachments": [{
+      "fallback": "Printer disconnected",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_5d6f131e702411e9a217784f43907318.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 241435,
+      "pretext": ":heavy_minus_sign:  Printer disconnected :worried:",
+      "footer": "Printer: Offline (Error: Too many consecutive timeouts, printer still connected and alive?)",
+      "id": 1,
+      "color": "a30200",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "bot_id": "BBB8A6C8G",
+    "type": "message",
+    "text": "",
+    "user": "UBC3GJT1T",
+    "ts": "1557163710.002200",
+    "attachments": [{
+      "fallback": "Printer error: Too many consecutive timeouts, printer still connected and alive?",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_5cd8161c702411e9a94e784f43907318.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 241152,
+      "text": "*Error* Too many consecutive timeouts, printer still connected and alive?",
+      "pretext": ":heavy_minus_sign:  Printer error :fire:",
+      "footer": "Printer: Operational, Bed: 53.8\u00b0C\/0.0\u00b0C, Nozzle: 186.4\u00b0C\/0.0\u00b0C",
+      "id": 1,
+      "color": "a30200",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "bot_id": "BBB8A6C8G",
+    "type": "message",
+    "text": "",
+    "user": "UBC3GJT1T",
+    "ts": "1557163672.002100",
+    "attachments": [{
+      "fallback": "Print cancelled: Extra_Front_Case_No_HDMI.gcode",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_46430723702411e9aff8784f43907318.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 275503,
+      "text": "*File* Extra_Front_Case_No_HDMI.gcode (19.0MB via OctoPrint)",
+      "pretext": ":heavy_minus_sign:  Print cancelled :no_good:",
+      "footer": "Printer: Cancelling, Bed: 54.9\u00b0C\/50.0\u00b0C, Nozzle: 210.3\u00b0C\/210.0\u00b0C",
+      "id": 1,
+      "color": "daa038",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "bot_id": "BBB8A6C8G",
+    "type": "message",
+    "text": "",
+    "user": "UBC3GJT1T",
+    "ts": "1557163672.002000",
+    "attachments": [{
+      "fallback": "Timelapse movie rendering complete: Extra_Front_Case_No_HDMI.gcode",
+      "text": "*Movie* Extra_Front_Case_No_HDMI_20190506132302.mpg\n*Print job* Extra_Front_Case_No_HDMI.gcode",
+      "pretext": ":heavy_minus_sign:  Timelapse movie rendering complete :movie_camera:",
+      "footer": "Printer: Cancelling, Bed: 54.9\u00b0C\/50.0\u00b0C, Nozzle: 210.3\u00b0C\/210.0\u00b0C",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "bot_id": "BBB8A6C8G",
+    "type": "message",
+    "text": "",
+    "user": "UBC3GJT1T",
+    "ts": "1557163384.001900",
+    "attachments": [{
+      "fallback": "Print started: Extra_Front_Case_No_HDMI.gcode, Estimate: 13 hours 12 minutes",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_9aa3468f702311e9ad6b784f43907318.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 234498,
+      "text": "*File* Extra_Front_Case_No_HDMI.gcode (19.0MB via OctoPrint)\n*Estimated print time* 13 hours 12 minutes\n*ETA* 02:35 AM tomorrow",
+      "pretext": ":heavy_minus_sign:  A new print has started :rocket:",
+      "footer": "Printer: Printing, Bed: 32.7\u00b0C\/0.0\u00b0C, Nozzle: 69.2\u00b0C\/0.0\u00b0C",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "bot_id": "BBB8A6C8G",
+    "type": "message",
+    "text": "",
+    "user": "UBC3GJT1T",
+    "ts": "1557163038.001800",
+    "attachments": [{
+      "fallback": "Print cancelled: Extra_Front_Case_No_HDMI.gcode",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_cbbfeda3702211e99549784f43907318.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 271648,
+      "text": "*File* Extra_Front_Case_No_HDMI.gcode (19.0MB via OctoPrint)",
+      "pretext": ":heavy_minus_sign:  Print cancelled :no_good:",
+      "footer": "Printer: Cancelling, Bed: 59.8\u00b0C\/60.0\u00b0C, Nozzle: 215.4\u00b0C\/215.0\u00b0C",
+      "id": 1,
+      "color": "daa038",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "bot_id": "BBB8A6C8G",
+    "type": "message",
+    "text": "",
+    "user": "UBC3GJT1T",
+    "ts": "1557163037.001700",
+    "attachments": [{
+      "fallback": "Timelapse movie rendering complete: Extra_Front_Case_No_HDMI.gcode",
+      "text": "*Movie* Extra_Front_Case_No_HDMI_20190506131248.mpg\n*Print job* Extra_Front_Case_No_HDMI.gcode",
+      "pretext": ":heavy_minus_sign:  Timelapse movie rendering complete :movie_camera:",
+      "footer": "Printer: Cancelling, Bed: 59.8\u00b0C\/60.0\u00b0C, Nozzle: 215.4\u00b0C\/215.0\u00b0C",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "bot_id": "BBB8A6C8G",
+    "type": "message",
+    "text": "",
+    "user": "UBC3GJT1T",
+    "ts": "1557162770.001600",
+    "attachments": [{
+      "fallback": "Print started: Extra_Front_Case_No_HDMI.gcode, Estimate: 13 hours 12 minutes",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_2caeffa1702211e9affb784f43907318.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 219883,
+      "text": "*File* Extra_Front_Case_No_HDMI.gcode (19.0MB via OctoPrint)\n*Estimated print time* 13 hours 12 minutes\n*ETA* 02:25 AM tomorrow",
+      "pretext": ":heavy_minus_sign:  A new print has started :rocket:",
+      "footer": "Printer: Printing, Bed: 35.4\u00b0C\/0.0\u00b0C, Nozzle: 88.3\u00b0C\/0.0\u00b0C",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "bot_id": "BBB8A6C8G",
+    "type": "message",
+    "text": "",
+    "user": "UBC3GJT1T",
+    "ts": "1557162751.001500",
+    "attachments": [{
+      "fallback": "Successfully connected to printer",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_2113b551702211e99587784f43907318.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 219649,
+      "pretext": ":heavy_minus_sign:  Successfully connected to printer :computer:",
+      "footer": "Printer: Operational",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "bot_id": "BBB8A6C8G",
+    "type": "message",
+    "text": "",
+    "user": "UBC3GJT1T",
+    "ts": "1557162583.001400",
+    "attachments": [{
+      "fallback": "Printer disconnected",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_bbd93323702111e98386784f43907318.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 264509,
+      "pretext": ":heavy_minus_sign:  Printer disconnected :worried:",
+      "footer": "Printer: Offline (Error: Too many consecutive timeouts, printer still connected and alive?)",
+      "id": 1,
+      "color": "a30200",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "bot_id": "BBB8A6C8G",
+    "type": "message",
+    "text": "",
+    "user": "UBC3GJT1T",
+    "ts": "1557162582.001300",
+    "attachments": [{
+      "fallback": "Printer error: Too many consecutive timeouts, printer still connected and alive?",
+      "text": "*Error* Too many consecutive timeouts, printer still connected and alive?",
+      "pretext": ":heavy_minus_sign:  Printer error :fire:",
+      "footer": "Printer: Cancelling, Bed: 59.9\u00b0C\/60.0\u00b0C, Nozzle: 214.7\u00b0C\/215.0\u00b0C",
+      "id": 1,
+      "color": "a30200",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "bot_id": "BBB8A6C8G",
+    "type": "message",
+    "text": "",
+    "user": "UBC3GJT1T",
+    "ts": "1557162531.001200",
+    "attachments": [{
+      "fallback": "Print cancelled: Extra_Front_Case_No_HDMI.gcode",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_9dce4c5c702111e99988784f43907318.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 261467,
+      "text": "*File* Extra_Front_Case_No_HDMI.gcode (19.0MB via OctoPrint)",
+      "pretext": ":heavy_minus_sign:  Print cancelled :no_good:",
+      "footer": "Printer: Cancelling, Bed: 59.9\u00b0C\/60.0\u00b0C, Nozzle: 214.7\u00b0C\/215.0\u00b0C",
+      "id": 1,
+      "color": "daa038",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "bot_id": "BBB8A6C8G",
+    "type": "message",
+    "text": "",
+    "user": "UBC3GJT1T",
+    "ts": "1557162530.001100",
+    "attachments": [{
+      "fallback": "Timelapse movie rendering complete: Extra_Front_Case_No_HDMI.gcode",
+      "text": "*Movie* Extra_Front_Case_No_HDMI_20190506125744.mpg\n*Print job* Extra_Front_Case_No_HDMI.gcode",
+      "pretext": ":heavy_minus_sign:  Timelapse movie rendering complete :movie_camera:",
+      "footer": "Printer: Cancelling, Bed: 59.9\u00b0C\/60.0\u00b0C, Nozzle: 214.7\u00b0C\/215.0\u00b0C",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "bot_id": "BBB8A6C8G",
+    "type": "message",
+    "text": "",
+    "user": "UBC3GJT1T",
+    "ts": "1557161866.001000",
+    "attachments": [{
+      "fallback": "Print started: Extra_Front_Case_No_HDMI.gcode, Estimate: 13 hours 12 minutes",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_11b7fea8702011e980a1784f43907318.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 203942,
+      "text": "*File* Extra_Front_Case_No_HDMI.gcode (19.0MB via OctoPrint)\n*Estimated print time* 13 hours 12 minutes\n*ETA* 02:09 AM tomorrow",
+      "pretext": ":heavy_minus_sign:  A new print has started :rocket:",
+      "footer": "Printer: Printing, Bed: 24.0\u00b0C\/0.0\u00b0C, Nozzle: 24.3\u00b0C\/0.0\u00b0C",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "bot_id": "BBB8A6C8G",
+    "type": "message",
+    "text": "",
+    "user": "UBC3GJT1T",
+    "ts": "1557161664.000900",
+    "attachments": [{
+      "fallback": "Successfully connected to printer",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_96dd6bdc701f11e9bc16784f43907318.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 203809,
+      "pretext": ":heavy_minus_sign:  Successfully connected to printer :computer:",
+      "footer": "Printer: Operational",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "bot_id": "BBB8A6C8G",
+    "type": "message",
+    "text": "",
+    "user": "UBC3GJT1T",
+    "ts": "1557159988.000800",
+    "attachments": [{
+      "fallback": "Successfully connected to printer",
+      "text": "*Snapshot error(s):*\n\n *-* Minio error: InvalidEndpointError: message: Hostname does not meet URL standards.",
+      "pretext": ":heavy_minus_sign:  Successfully connected to printer :computer:",
+      "footer": "Printer: Operational",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "bot_id": "BBB8A6C8G",
+    "type": "message",
+    "text": "",
+    "user": "UBC3GJT1T",
+    "ts": "1557159926.000700",
+    "attachments": [{
+      "fallback": "Printer disconnected",
+      "text": "*Snapshot error(s):*\n\n *-* Minio error: HTTPSConnectionPool(host='<http:\/\/minio.jefftherobot.com|minio.jefftherobot.com>', port=443): Max retries exceeded with url: \/octoprints?location= (Caused by NewConnectionError('&lt;urllib3.connection.VerifiedHTTPSConnection object at 0x10c96cd50&gt;: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known',))",
+      "pretext": ":heavy_minus_sign:  Printer disconnected :worried:",
+      "footer": "Printer: Offline",
+      "id": 1,
+      "color": "a30200",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "bot_id": "BBB8A6C8G",
+    "type": "message",
+    "text": "",
+    "user": "UBC3GJT1T",
+    "ts": "1557159247.000600",
+    "attachments": [{
+      "fallback": "Successfully connected to printer",
+      "pretext": ":heavy_minus_sign:  Successfully connected to printer :computer:",
+      "footer": "Printer: Operational",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "type": "message",
+    "text": "",
+    "files": [{
+      "id": "FJ41LURU2",
+      "created": 1557159231,
+      "timestamp": 1557159231,
+      "name": "snapshot.jpg",
+      "title": "Disconnected snapshot",
+      "mimetype": "image\/jpeg",
+      "filetype": "jpg",
+      "pretty_type": "JPEG",
+      "user": "UBC3GJT1T",
+      "editable": false,
+      "size": 201307,
+      "mode": "hosted",
+      "is_external": false,
+      "external_type": "",
+      "is_public": true,
+      "public_url_shared": false,
+      "display_as_bot": false,
+      "username": "",
+      "url_private": "https:\/\/files.slack.com\/files-pri\/T1TE2CTL3-FJ41LURU2\/snapshot.jpg",
+      "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1TE2CTL3-FJ41LURU2\/download\/snapshot.jpg",
+      "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T1TE2CTL3-FJ41LURU2-861029b039\/snapshot_64.jpg",
+      "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T1TE2CTL3-FJ41LURU2-861029b039\/snapshot_80.jpg",
+      "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T1TE2CTL3-FJ41LURU2-861029b039\/snapshot_360.jpg",
+      "thumb_360_w": 360,
+      "thumb_360_h": 203,
+      "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T1TE2CTL3-FJ41LURU2-861029b039\/snapshot_480.jpg",
+      "thumb_480_w": 480,
+      "thumb_480_h": 270,
+      "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T1TE2CTL3-FJ41LURU2-861029b039\/snapshot_160.jpg",
+      "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T1TE2CTL3-FJ41LURU2-861029b039\/snapshot_720.jpg",
+      "thumb_720_w": 720,
+      "thumb_720_h": 405,
+      "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T1TE2CTL3-FJ41LURU2-861029b039\/snapshot_800.jpg",
+      "thumb_800_w": 800,
+      "thumb_800_h": 450,
+      "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T1TE2CTL3-FJ41LURU2-861029b039\/snapshot_960.jpg",
+      "thumb_960_w": 960,
+      "thumb_960_h": 540,
+      "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T1TE2CTL3-FJ41LURU2-861029b039\/snapshot_1024.jpg",
+      "thumb_1024_w": 1024,
+      "thumb_1024_h": 576,
+      "image_exif_rotation": 1,
+      "original_w": 1280,
+      "original_h": 720,
+      "permalink": "https:\/\/fasdesignvanguard.slack.com\/files\/UBC3GJT1T\/FJ41LURU2\/snapshot.jpg",
+      "permalink_public": "https:\/\/slack-files.com\/T1TE2CTL3-FJ41LURU2-03c12d6abf",
+      "is_starred": false,
+      "has_rich_preview": false
+    }],
+    "upload": true,
+    "user": "UBC3GJT1T",
+    "display_as_bot": false,
+    "ts": "1557159234.000300"
+  }, {
+    "bot_id": "BBB8A6C8G",
+    "type": "message",
+    "text": "",
+    "user": "UBC3GJT1T",
+    "ts": "1557159230.000200",
+    "attachments": [{
+      "fallback": "Printer disconnected",
+      "pretext": ":heavy_minus_sign:  Printer disconnected :worried:",
+      "footer": "Printer: Offline",
+      "id": 1,
+      "color": "a30200",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "bot_id": "BBB8A6C8G",
+    "type": "message",
+    "text": "",
+    "user": "UBC3GJT1T",
+    "ts": "1557159162.000100",
+    "attachments": [{
+      "fallback": "Successfully connected to printer",
+      "pretext": ":heavy_minus_sign:  Successfully connected to printer :computer:",
+      "footer": "Printer: Operational",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "client_msg_id": "aaa1f9aa-db50-4f9d-992f-e7cfed7ae788",
+    "type": "message",
+    "text": "Does not seem Octoprint is currently working. Let's look at it after the print is finished.",
+    "user": "U8ESK0JUU",
+    "ts": "1538139784.000100"
+  }, {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1538052237.000100",
+    "username": "octobot",
+    "bot_id": "BBB8A6C8G",
+    "attachments": [{
+      "fallback": "Print started: HIVE_Module_V4_204Percent.gcode, Estimate: 1 day 8 hours 36 minutes",
+      "text": "*File* HIVE_Module_V4_204Percent.gcode (35.6MB via OctoPrint)\n*Estimated print time* 1 day 8 hours 36 minutes\n*ETA* 17:21 tomorrow\n*Snapshot error(s):*\n\n *-* Minio error: HTTPSConnectionPool(host='<http:\/\/minio.jefftherobot.com|minio.jefftherobot.com>', port=443): Max retries exceeded with url: \/octoprints?location= (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:726)'),))",
+      "pretext": ":heavy_minus_sign:  A new print has started :rocket:",
+      "footer": "Printer: Printing, Bed: 60.2\u00b0C\/60.0\u00b0C, Nozzle: 214.4\u00b0C\/215.0\u00b0C",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1537939542.000100",
+    "username": "octobot",
+    "bot_id": "BBB8A6C8G",
+    "attachments": [{
+      "fallback": "Print finished successfully: HIVE_Drawer_200Percent.gcode, Time: 16 hours 7 minutes",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_c3500851c14c11e8b844a8206613cf4f.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 13081,
+      "text": "*File* HIVE_Drawer_200Percent.gcode (16.1MB via OctoPrint)\n*Estimated print time* 17 hours 42 minutes\n*Final print time* 16 hours 7 minutes",
+      "pretext": ":heavy_minus_sign:  Print finished successfully :dancer:",
+      "footer": "Printer: Finishing, Bed: 60.2\u00b0C\/0.0\u00b0C, Nozzle: 209.8\u00b0C\/0.0\u00b0C, Nozzle Height: 160.55mm",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1537889287.000100",
+    "username": "octobot",
+    "bot_id": "BBB8A6C8G",
+    "attachments": [{
+      "fallback": "Print progress: 95% - HIVE_Drawer_200Percent.gcode, Elapsed: 14 hours 46 minutes, Remaining: 45 minutes",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_702f1fd4c14111e89ba7a8206613cf4f.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 13032,
+      "text": "*File* HIVE_Drawer_200Percent.gcode (16.1MB via OctoPrint)\n*Elapsed* 14 hours 46 minutes\n*Remaining* 45 minutes\n*ETA* 00:51 today",
+      "pretext": ":heavy_minus_sign: Print progress 95% :horse_racing:",
+      "footer": "Printer: Printing, Bed: 60.1\u00b0C\/60.0\u00b0C, Nozzle: 210.5\u00b0C\/210.0\u00b0C, Nozzle Height: 105.05mm",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1537881547.000100",
+    "username": "octobot",
+    "bot_id": "BBB8A6C8G",
+    "attachments": [{
+      "fallback": "Print resumed: 0% - HIVE_Drawer_200Percent.gcode",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_bbd0c77ac0c511e8ab31a8206613cf4f.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 117767,
+      "text": "*File* HIVE_Drawer_200Percent.gcode (16.1MB via OctoPrint)\n*Estimated print time* 17 hours 42 minutes\n*ETA* 03:03 tomorrow\n*Elapsed* 1 minute 15 seconds\n*Remaining* 17 hours 42 minutes\n*ETA* 03:03 tomorrow",
+      "pretext": ":heavy_minus_sign:  Print resumed :runner:",
+      "footer": "Printer: Printing, Bed: 60.9\u00b0C\/60.0\u00b0C, Nozzle: 215.4\u00b0C\/215.0\u00b0C",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1537881536.000100",
+    "username": "octobot",
+    "bot_id": "BBB8A6C8G",
+    "attachments": [{
+      "fallback": "Print paused: 0% - HIVE_Drawer_200Percent.gcode",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_b4fa9430c0c511e8a581a8206613cf4f.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 120190,
+      "text": "*File* HIVE_Drawer_200Percent.gcode (16.1MB via OctoPrint)\n*Estimated print time* 17 hours 42 minutes\n*ETA* 03:02 tomorrow\n*Elapsed* 1 minute 15 seconds\n*Remaining* 17 hours 42 minutes\n*ETA* 03:02 tomorrow",
+      "pretext": ":heavy_minus_sign:  Print paused :zzz:",
+      "footer": "Printer: Pausing, Bed: 59.9\u00b0C\/60.0\u00b0C, Nozzle: 214.7\u00b0C\/215.0\u00b0C",
+      "id": 1,
+      "color": "daa038",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1537881441.000100",
+    "username": "octobot",
+    "bot_id": "BBB8A6C8G",
+    "attachments": [{
+      "fallback": "Print started: HIVE_Drawer_200Percent.gcode, Estimate: 17 hours 42 minutes",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_7d0a3f00c0c511e8b22ca8206613cf4f.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 99090,
+      "text": "*File* HIVE_Drawer_200Percent.gcode (16.1MB via OctoPrint)\n*Estimated print time* 17 hours 42 minutes\n*ETA* 03:01 tomorrow",
+      "pretext": ":heavy_minus_sign:  A new print has started :rocket:",
+      "footer": "Printer: Printing, Bed: 52.7\u00b0C\/0.0\u00b0C, Nozzle: 159.8\u00b0C\/0.0\u00b0C",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1537881362.000100",
+    "username": "octobot",
+    "bot_id": "BBB8A6C8G",
+    "attachments": [{
+      "fallback": "Print cancelled: HIVE_Drawer_200Percent.gcode",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_4d46d345c0c511e8990ba8206613cf4f.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 103828,
+      "text": "*File* HIVE_Drawer_200Percent.gcode (16.1MB via OctoPrint)",
+      "pretext": ":heavy_minus_sign:  Print cancelled :no_good:",
+      "footer": "Printer: Cancelling, Bed: 60.1\u00b0C\/60.0\u00b0C, Nozzle: 205.9\u00b0C\/210.0\u00b0C",
+      "id": 1,
+      "color": "daa038",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1537881310.000100",
+    "username": "octobot",
+    "bot_id": "BBB8A6C8G",
+    "attachments": [{
+      "fallback": "Print resumed: 0% - HIVE_Drawer_200Percent.gcode",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_2e60a3a8c0c511e8821ba8206613cf4f.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 114989,
+      "text": "*File* HIVE_Drawer_200Percent.gcode (16.1MB via OctoPrint)\n*Estimated print time* 17 hours 42 minutes\n*ETA* 02:59 tomorrow\n*Elapsed* 10 minutes\n*Remaining* 17 hours 37 minutes\n*ETA* 02:54 tomorrow",
+      "pretext": ":heavy_minus_sign:  Print resumed :runner:",
+      "footer": "Printer: Resuming, Bed: 59.8\u00b0C\/60.0\u00b0C, Nozzle: 215.3\u00b0C\/215.0\u00b0C, Nozzle Height: 0.20mm",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1537881293.000100",
+    "username": "octobot",
+    "bot_id": "BBB8A6C8G",
+    "attachments": [{
+      "fallback": "Print paused: 0% - HIVE_Drawer_200Percent.gcode",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_246c69aec0c511e88ea8a8206613cf4f.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 113561,
+      "text": "*File* HIVE_Drawer_200Percent.gcode (16.1MB via OctoPrint)\n*Estimated print time* 17 hours 42 minutes\n*ETA* 02:58 tomorrow\n*Elapsed* 10 minutes\n*Remaining* 17 hours 37 minutes\n*ETA* 02:53 tomorrow",
+      "pretext": ":heavy_minus_sign:  Print paused :zzz:",
+      "footer": "Printer: Pausing, Bed: 60.1\u00b0C\/60.0\u00b0C, Nozzle: 215.1\u00b0C\/215.0\u00b0C, Nozzle Height: 0.20mm",
+      "id": 1,
+      "color": "daa038",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1537881262.000100",
+    "username": "octobot",
+    "bot_id": "BBB8A6C8G",
+    "attachments": [{
+      "fallback": "Print resumed: 0% - HIVE_Drawer_200Percent.gcode",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_12038b0ac0c511e89b65a8206613cf4f.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 116053,
+      "text": "*File* HIVE_Drawer_200Percent.gcode (16.1MB via OctoPrint)\n*Estimated print time* 17 hours 42 minutes\n*ETA* 02:58 tomorrow\n*Elapsed* 10 minutes\n*Remaining* 17 hours 38 minutes\n*ETA* 02:53 tomorrow",
+      "pretext": ":heavy_minus_sign:  Print resumed :runner:",
+      "footer": "Printer: Resuming, Bed: 59.8\u00b0C\/60.0\u00b0C, Nozzle: 215.2\u00b0C\/215.0\u00b0C, Nozzle Height: 10.00mm",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1537881145.000100",
+    "username": "octobot",
+    "bot_id": "BBB8A6C8G",
+    "attachments": [{
+      "fallback": "Print paused: 0% - HIVE_Drawer_200Percent.gcode",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_cb22e60cc0c411e88fa2a8206613cf4f.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 109982,
+      "text": "*File* HIVE_Drawer_200Percent.gcode (16.1MB via OctoPrint)\n*Estimated print time* 17 hours 42 minutes\n*ETA* 02:56 tomorrow\n*Elapsed* 10 minutes\n*Remaining* 17 hours 38 minutes\n*ETA* 02:51 tomorrow",
+      "pretext": ":heavy_minus_sign:  Print paused :zzz:",
+      "footer": "Printer: Pausing, Bed: 60.1\u00b0C\/60.0\u00b0C, Nozzle: 214.4\u00b0C\/215.0\u00b0C, Nozzle Height: 0.20mm",
+      "id": 1,
+      "color": "daa038",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1537880896.000100",
+    "username": "octobot",
+    "bot_id": "BBB8A6C8G",
+    "attachments": [{
+      "fallback": "Print resumed: 0% - HIVE_Drawer_200Percent.gcode",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_37424f68c0c411e891c8a8206613cf4f.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 117977,
+      "text": "*File* HIVE_Drawer_200Percent.gcode (16.1MB via OctoPrint)\n*Estimated print time* 17 hours 42 minutes\n*ETA* 02:52 tomorrow\n*Elapsed* 6 minutes 6 seconds\n*Remaining* 17 hours 36 minutes\n*ETA* 02:46 tomorrow",
+      "pretext": ":heavy_minus_sign:  Print resumed :runner:",
+      "footer": "Printer: Resuming, Bed: 59.9\u00b0C\/60.0\u00b0C, Nozzle: 215.1\u00b0C\/215.0\u00b0C, Nozzle Height: 0.20mm",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1537880889.000100",
+    "username": "octobot",
+    "bot_id": "BBB8A6C8G",
+    "attachments": [{
+      "fallback": "Print paused: 0% - HIVE_Drawer_200Percent.gcode",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_33e7d93dc0c411e8af82a8206613cf4f.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 111355,
+      "text": "*File* HIVE_Drawer_200Percent.gcode (16.1MB via OctoPrint)\n*Estimated print time* 17 hours 42 minutes\n*ETA* 02:52 tomorrow\n*Elapsed* 6 minutes 6 seconds\n*Remaining* 17 hours 36 minutes\n*ETA* 02:46 tomorrow",
+      "pretext": ":heavy_minus_sign:  Print paused :zzz:",
+      "footer": "Printer: Pausing, Bed: 59.6\u00b0C\/60.0\u00b0C, Nozzle: 214.8\u00b0C\/215.0\u00b0C, Nozzle Height: 0.20mm",
+      "id": 1,
+      "color": "daa038",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1537880520.000100",
+    "username": "octobot",
+    "bot_id": "BBB8A6C8G",
+    "attachments": [{
+      "fallback": "Print started: HIVE_Drawer_200Percent.gcode, Estimate: 17 hours 42 minutes",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_57744b28c0c311e89466a8206613cf4f.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 109926,
+      "text": "*File* HIVE_Drawer_200Percent.gcode (16.1MB via OctoPrint)\n*Estimated print time* 17 hours 42 minutes\n*ETA* 02:45 tomorrow",
+      "pretext": ":heavy_minus_sign:  A new print has started :rocket:",
+      "footer": "Printer: Printing, Bed: 60.0\u00b0C\/60.0\u00b0C, Nozzle: 215.0\u00b0C\/215.0\u00b0C",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1537861391.000100",
+    "username": "octobot",
+    "bot_id": "BBB8A6C8G",
+    "attachments": [{
+      "fallback": "Print finished successfully: HIVE_Module_V4_204Percent.gcode, Time: 1 day 8 hours 36 minutes",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_ce45d7e6c09611e8b1d7a8206613cf4f.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 16238,
+      "text": "*File* HIVE_Module_V4_204Percent.gcode (35.6MB via OctoPrint)\n*Estimated print time* 1 day 6 hours 13 minutes\n*Final print time* 1 day 8 hours 36 minutes",
+      "pretext": ":heavy_minus_sign:  Print finished successfully :dancer:",
+      "footer": "Printer: Finishing, Bed: 60.0\u00b0C\/0.0\u00b0C, Nozzle: 209.3\u00b0C\/0.0\u00b0C, Nozzle Height: 187.70mm",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1537752326.000100",
+    "username": "octobot",
+    "bot_id": "BBB8A6C8G",
+    "attachments": [{
+      "fallback": "Print progress: 95% - HIVE_Module_V4_204Percent.gcode, Elapsed: 1 day 7 hours 0 minutes, Remaining: 1 hour 38 minutes",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_5978f71ec08911e88f61a8206613cf4f.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 11763,
+      "text": "*File* HIVE_Module_V4_204Percent.gcode (35.6MB via OctoPrint)\n*Elapsed* 1 day 7 hours 0 minutes\n*Remaining* 1 hour 38 minutes\n*ETA* 03:46 today",
+      "pretext": ":heavy_minus_sign: Print progress 95% :horse_racing:",
+      "footer": "Printer: Printing, Bed: 60.1\u00b0C\/60.0\u00b0C, Nozzle: 210.0\u00b0C\/210.0\u00b0C, Nozzle Height: 150.80mm",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1537744108.000100",
+    "username": "octobot",
+    "bot_id": "BBB8A6C8G",
+    "attachments": [{
+      "fallback": "Print started: HIVE_Module_V4_204Percent.gcode, Estimate: 1 day 6 hours 13 minutes",
+      "text": "*File* HIVE_Module_V4_204Percent.gcode (35.6MB via OctoPrint)\n*Estimated print time* 1 day 6 hours 13 minutes\n*ETA* 01:20 Sep 25\n*Snapshot error(s):*\n\n *-* Minio error: HTTPSConnectionPool(host='<http:\/\/minio.jefftherobot.com|minio.jefftherobot.com>', port=443): Max retries exceeded with url: \/octoprints?location= (Caused by ProxyError('Cannot connect to proxy.', error('Tunnel connection failed: 504 Proxy Timeout ( The connection timed out.  )',)))",
+      "pretext": ":heavy_minus_sign:  A new print has started :rocket:",
+      "footer": "Printer: Printing, Bed: 59.7\u00b0C\/60.0\u00b0C, Nozzle: 215.6\u00b0C\/215.0\u00b0C",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1537743963.000100",
+    "username": "octobot",
+    "bot_id": "BBB8A6C8G",
+    "attachments": [{
+      "fallback": "Print finished successfully: Pulsera6_125Percent.gcode, Time: 42 minutes",
+      "text": "*File* Pulsera6_125Percent.gcode (4.8MB via OctoPrint)\n*Estimated print time* 32 minutes\n*Final print time* 42 minutes\n*Snapshot error(s):*\n\n *-* Minio error: HTTPSConnectionPool(host='<http:\/\/minio.jefftherobot.com|minio.jefftherobot.com>', port=443): Max retries exceeded with url: \/octoprints?location= (Caused by ProxyError('Cannot connect to proxy.', error('Tunnel connection failed: 504 Proxy Timeout ( The connection timed out.  )',)))",
+      "pretext": ":heavy_minus_sign:  Print finished successfully :dancer:",
+      "footer": "Printer: Finishing, Bed: 60.1\u00b0C\/0.0\u00b0C, Nozzle: 209.7\u00b0C\/0.0\u00b0C, Nozzle Height: 38.15mm",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1537741558.000100",
+    "username": "octobot",
+    "bot_id": "BBB8A6C8G",
+    "attachments": [{
+      "fallback": "Print progress: 95% - Pulsera6_125Percent.gcode, Elapsed: 39 minutes, Remaining: 1 minute 51 seconds",
+      "text": "*File* Pulsera6_125Percent.gcode (4.8MB via OctoPrint)\n*Elapsed* 39 minutes\n*Remaining* 1 minute 51 seconds\n*ETA* 19:03 today\n*Snapshot error(s):*\n\n *-* Minio error: HTTPSConnectionPool(host='<http:\/\/minio.jefftherobot.com|minio.jefftherobot.com>', port=443): Max retries exceeded with url: \/octoprints?location= (Caused by ProxyError('Cannot connect to proxy.', error('Tunnel connection failed: 504 Proxy Timeout ( The connection timed out.  )',)))",
+      "pretext": ":heavy_minus_sign: Print progress 95% :horse_racing:",
+      "footer": "Printer: Printing, Bed: 60.1\u00b0C\/60.0\u00b0C, Nozzle: 210.3\u00b0C\/210.0\u00b0C, Nozzle Height: 7.10mm",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1537741295.000100",
+    "username": "octobot",
+    "bot_id": "BBB8A6C8G",
+    "attachments": [{
+      "fallback": "Print started: Pulsera6_125Percent.gcode, Estimate: 32 minutes",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_2f8e52a6bf7f11e89a5ca8206613cf4f.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 17574,
+      "text": "*File* Pulsera6_125Percent.gcode (4.8MB via OctoPrint)\n*Estimated print time* 32 minutes\n*ETA* 18:55 today",
+      "pretext": ":heavy_minus_sign:  A new print has started :rocket:",
+      "footer": "Printer: Printing, Bed: 59.9\u00b0C\/60.0\u00b0C, Nozzle: 215.8\u00b0C\/215.0\u00b0C",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1537500986.000100",
+    "username": "octobot",
+    "bot_id": "BBB8A6C8G",
+    "attachments": [{
+      "fallback": "Print finished successfully: HIVE_Module_V4_102.gcode, Time: 10 hours 44 minutes",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_ae8a9b8fbd4f11e8b1aca8206613cf4f.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 12173,
+      "text": "*File* HIVE_Module_V4_102.gcode (12.6MB via OctoPrint)\n*Estimated print time* 9 hours 1 minute\n*Final print time* 10 hours 44 minutes",
+      "pretext": ":heavy_minus_sign:  Print finished successfully :dancer:",
+      "footer": "Printer: Finishing, Bed: 60.1\u00b0C\/0.0\u00b0C, Nozzle: 209.8\u00b0C\/0.0\u00b0C, Nozzle Height: 109.10mm",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1537464643.000100",
+    "username": "octobot",
+    "bot_id": "BBB8A6C8G",
+    "attachments": [{
+      "fallback": "Print progress: 95% - HIVE_Module_V4_102.gcode, Elapsed: 10 hours 13 minutes, Remaining: 32 minutes",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_5c889894bd4b11e8929ba8206613cf4f.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 12240,
+      "text": "*File* HIVE_Module_V4_102.gcode (12.6MB via OctoPrint)\n*Elapsed* 10 hours 13 minutes\n*Remaining* 32 minutes\n*ETA* 23:39 today",
+      "pretext": ":heavy_minus_sign: Print progress 95% :horse_racing:",
+      "footer": "Printer: Printing, Bed: 59.9\u00b0C\/60.0\u00b0C, Nozzle: 210.0\u00b0C\/210.0\u00b0C, Nozzle Height: 75.65mm",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1537462307.000100",
+    "username": "octobot",
+    "bot_id": "BBB8A6C8G",
+    "attachments": [{
+      "fallback": "Print started: HIVE_Module_V4_102.gcode, Estimate: 9 hours 1 minute",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_a007abf5bcf511e881efa8206613cf4f.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 138201,
+      "text": "*File* HIVE_Module_V4_102.gcode (12.6MB via OctoPrint)\n*Estimated print time* 9 hours 1 minute\n*ETA* 21:54 today",
+      "pretext": ":heavy_minus_sign:  A new print has started :rocket:",
+      "footer": "Printer: Printing, Bed: 59.9\u00b0C\/60.0\u00b0C, Nozzle: 214.9\u00b0C\/215.0\u00b0C",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1537460742.000100",
+    "username": "octobot",
+    "bot_id": "BBB8A6C8G",
+    "attachments": [{
+      "fallback": "Print finished successfully: Pulsera6_140Percent.gcode, Time: 49 minutes",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_fb81caa6bcf111e8a40ba8206613cf4f.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 129694,
+      "text": "*File* Pulsera6_140Percent.gcode (5.4MB via OctoPrint)\n*Estimated print time* 40 minutes\n*Final print time* 49 minutes",
+      "pretext": ":heavy_minus_sign:  Print finished successfully :dancer:",
+      "footer": "Printer: Finishing, Bed: 60.2\u00b0C\/0.0\u00b0C, Nozzle: 210.1\u00b0C\/0.0\u00b0C, Nozzle Height: 39.05mm",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1537458138.000100",
+    "username": "octobot",
+    "bot_id": "BBB8A6C8G",
+    "attachments": [{
+      "fallback": "Print progress: 95% - Pulsera6_140Percent.gcode, Elapsed: 45 minutes, Remaining: 2 minutes 0 seconds",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_6fcf7a6bbcf111e88d8ca8206613cf4f.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 128073,
+      "text": "*File* Pulsera6_140Percent.gcode (5.4MB via OctoPrint)\n*Elapsed* 45 minutes\n*Remaining* 2 minutes 0 seconds\n*ETA* 12:24 today",
+      "pretext": ":heavy_minus_sign: Print progress 95% :horse_racing:",
+      "footer": "Printer: Printing, Bed: 60.0\u00b0C\/60.0\u00b0C, Nozzle: 209.9\u00b0C\/210.0\u00b0C, Nozzle Height: 7.85mm",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1537457770.000100",
+    "username": "octobot",
+    "bot_id": "BBB8A6C8G",
+    "attachments": [{
+      "fallback": "Print started: Pulsera6_140Percent.gcode, Estimate: 40 minutes",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_0f889b8abceb11e892cba8206613cf4f.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 127393,
+      "text": "*File* Pulsera6_140Percent.gcode (5.4MB via OctoPrint)\n*Estimated print time* 40 minutes\n*ETA* 12:17 today",
+      "pretext": ":heavy_minus_sign:  A new print has started :rocket:",
+      "footer": "Printer: Printing",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1537457765.000100",
+    "username": "octobot",
+    "bot_id": "BBB8A6C8G",
+    "attachments": [{
+      "fallback": "Successfully connected to printer",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_0cb73b45bceb11e8b584a8206613cf4f.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 127357,
+      "pretext": ":heavy_minus_sign:  Successfully connected to printer :computer:",
+      "footer": "Printer: Operational",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1537457676.000100",
+    "username": "octobot",
+    "bot_id": "BBB8A6C8G",
+    "attachments": [{
+      "fallback": "Printer error: Printer halted. kill() called!",
+      "text": "*Error* Printer halted. kill() called!",
+      "pretext": ":heavy_minus_sign:  Printer error :fire:",
+      "footer": "Printer: Error: Printer halted. kill() called!, Bed: 60.0\u00b0C\/60.0\u00b0C, Nozzle: 214.3\u00b0C\/215.0\u00b0C",
+      "id": 1,
+      "color": "a30200",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1537457673.000100",
+    "username": "octobot",
+    "bot_id": "BBB8A6C8G",
+    "attachments": [{
+      "fallback": "Print failed: N\/A",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_d5f675b8bcea11e894f1a8206613cf4f.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 128674,
+      "text": "*File* N\/A",
+      "pretext": ":heavy_minus_sign:  Print failed :bomb:",
+      "footer": "Printer: Offline (Error: Printer halted. kill() called!)",
+      "id": 1,
+      "color": "a30200",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1537457563.000100",
+    "username": "octobot",
+    "bot_id": "BBB8A6C8G",
+    "attachments": [{
+      "fallback": "Print started: Pulsera6_140Percent.gcode, Estimate: 40 minutes",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_947cde23bcea11e8b7aaa8206613cf4f.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 121755,
+      "text": "*File* Pulsera6_140Percent.gcode (5.4MB via OctoPrint)\n*Estimated print time* 40 minutes\n*ETA* 12:14 today",
+      "pretext": ":heavy_minus_sign:  A new print has started :rocket:",
+      "footer": "Printer: Printing, Bed: 47.1\u00b0C\/0.0\u00b0C, Nozzle: 145.2\u00b0C\/0.0\u00b0C",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1537457455.000100",
+    "username": "octobot",
+    "bot_id": "BBB8A6C8G",
+    "attachments": [{
+      "fallback": "Print cancelled: Pulsera6_140Percent.gcode",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_5377277dbcea11e8b09ba8206613cf4f.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 136208,
+      "text": "*File* Pulsera6_140Percent.gcode (5.4MB via OctoPrint)",
+      "pretext": ":heavy_minus_sign:  Print cancelled :no_good:",
+      "footer": "Printer: Cancelling, Bed: 59.8\u00b0C\/60.0\u00b0C, Nozzle: 209.8\u00b0C\/210.0\u00b0C",
+      "id": 1,
+      "color": "daa038",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1537457209.000100",
+    "username": "octobot",
+    "bot_id": "BBB8A6C8G",
+    "attachments": [{
+      "fallback": "Print progress: 10% - Pulsera6_140Percent.gcode, Elapsed: 9 minutes 46 seconds, Remaining: 42 minutes",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_234a5e70bcea11e8879aa8206613cf4f.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 133345,
+      "text": "*File* Pulsera6_140Percent.gcode (5.4MB via OctoPrint)\n*Elapsed* 9 minutes 46 seconds\n*Remaining* 42 minutes\n*ETA* 12:12 today",
+      "pretext": ":heavy_minus_sign: Print progress 10% :horse_racing:",
+      "footer": "Printer: Printing, Bed: 59.9\u00b0C\/60.0\u00b0C, Nozzle: 210.0\u00b0C\/210.0\u00b0C, Nozzle Height: 1.25mm",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1537456787.000100",
+    "username": "octobot",
+    "bot_id": "BBB8A6C8G",
+    "attachments": [{
+      "fallback": "Print started: Pulsera6_140Percent.gcode, Estimate: 40 minutes",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_c5dcc0c7bce811e8bea8a8206613cf4f.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 139298,
+      "text": "*File* Pulsera6_140Percent.gcode (5.4MB via OctoPrint)\n*Estimated print time* 40 minutes\n*ETA* 12:01 today",
+      "pretext": ":heavy_minus_sign:  A new print has started :rocket:",
+      "footer": "Printer: Printing, Bed: 32.7\u00b0C\/0.0\u00b0C, Nozzle: 39.3\u00b0C\/0.0\u00b0C",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1537456027.000100",
+    "username": "octobot",
+    "bot_id": "BBB8A6C8G",
+    "attachments": [{
+      "fallback": "Print finished successfully: Pulsera6.gcode, Time: 31 minutes",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_00b95170bce711e8a77ea8206613cf4f.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 136914,
+      "text": "*File* Pulsera6.gcode (3.8MB via OctoPrint)\n*Estimated print time* 21 minutes\n*Final print time* 31 minutes",
+      "pretext": ":heavy_minus_sign:  Print finished successfully :dancer:",
+      "footer": "Printer: Finishing, Bed: 60.1\u00b0C\/0.0\u00b0C, Nozzle: 210.0\u00b0C\/0.0\u00b0C, Nozzle Height: 36.65mm",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1537454314.000100",
+    "username": "octobot",
+    "bot_id": "BBB8A6C8G",
+    "attachments": [{
+      "fallback": "Print progress: 95% - Pulsera6.gcode, Elapsed: 29 minutes, Remaining: 1 minute 29 seconds",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_b08e21c7bce611e8a168a8206613cf4f.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 131717,
+      "text": "*File* Pulsera6.gcode (3.8MB via OctoPrint)\n*Elapsed* 29 minutes\n*Remaining* 1 minute 29 seconds\n*ETA* 11:07 today",
+      "pretext": ":heavy_minus_sign: Print progress 95% :horse_racing:",
+      "footer": "Printer: Printing, Bed: 59.9\u00b0C\/60.0\u00b0C, Nozzle: 210.3\u00b0C\/210.0\u00b0C, Nozzle Height: 5.60mm",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1537454115.000100",
+    "username": "octobot",
+    "bot_id": "BBB8A6C8G",
+    "attachments": [{
+      "fallback": "Print started: Pulsera6.gcode, Estimate: 21 minutes",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_8d0a078cbce211e886dca8206613cf4f.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 125152,
+      "text": "*File* Pulsera6.gcode (3.8MB via OctoPrint)\n*Estimated print time* 21 minutes\n*ETA* 10:57 today",
+      "pretext": ":heavy_minus_sign:  A new print has started :rocket:",
+      "footer": "Printer: Printing, Bed: 60.0\u00b0C\/60.0\u00b0C, Nozzle: 214.9\u00b0C\/215.0\u00b0C",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1537452472.000100",
+    "username": "octobot",
+    "bot_id": "BBB8A6C8G",
+    "attachments": [{
+      "fallback": "Print finished successfully: FC_Brclt_L.gcode, Time: 52 minutes",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_b9bdf90fbcde11e8952ca8206613cf4f.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 118233,
+      "text": "*File* FC_Brclt_L.gcode (1.3MB via OctoPrint)\n*Estimated print time* 43 minutes\n*Final print time* 52 minutes",
+      "pretext": ":heavy_minus_sign:  Print finished successfully :dancer:",
+      "footer": "Printer: Finishing, Bed: 60.4\u00b0C\/0.0\u00b0C, Nozzle: 209.3\u00b0C\/0.0\u00b0C, Nozzle Height: 37.10mm",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1537449635.000100",
+    "username": "octobot",
+    "bot_id": "BBB8A6C8G",
+    "attachments": [{
+      "fallback": "Print progress: 95% - FC_Brclt_L.gcode, Elapsed: 49 minutes, Remaining: 2 minutes 28 seconds",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_4bb775fdbcde11e8ac9da8206613cf4f.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 121052,
+      "text": "*File* FC_Brclt_L.gcode (1.3MB via OctoPrint)\n*Elapsed* 49 minutes\n*Remaining* 2 minutes 28 seconds\n*ETA* 10:08 today",
+      "pretext": ":heavy_minus_sign: Print progress 95% :horse_racing:",
+      "footer": "Printer: Printing, Bed: 60.1\u00b0C\/60.0\u00b0C, Nozzle: 210.0\u00b0C\/210.0\u00b0C, Nozzle Height: 6.05mm",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1537449340.000100",
+    "username": "octobot",
+    "bot_id": "BBB8A6C8G",
+    "attachments": [{
+      "fallback": "Print started: FC_Brclt_L.gcode, Estimate: 43 minutes",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_6e933c5cbcd711e8b337a8206613cf4f.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 107591,
+      "text": "*File* FC_Brclt_L.gcode (1.3MB via OctoPrint)\n*Estimated print time* 43 minutes\n*ETA* 10:00 today",
+      "pretext": ":heavy_minus_sign:  A new print has started :rocket:",
+      "footer": "Printer: Printing, Bed: 60.4\u00b0C\/60.0\u00b0C, Nozzle: 215.3\u00b0C\/215.0\u00b0C",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1537399566.000100",
+    "username": "octobot",
+    "bot_id": "BBB8A6C8G",
+    "attachments": [{
+      "fallback": "Print cancelled: chainmail_flowalistik.gcode",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_8b8d7babbc6311e8a64da8206613cf4f.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 102181,
+      "text": "*File* chainmail_flowalistik.gcode (29.6MB via OctoPrint)",
+      "pretext": ":heavy_minus_sign:  Print cancelled :no_good:",
+      "footer": "Printer: Cancelling, Bed: 60.2\u00b0C\/60.0\u00b0C, Nozzle: 209.9\u00b0C\/210.0\u00b0C",
+      "id": 1,
+      "color": "daa038",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1537383436.000100",
+    "username": "octobot",
+    "bot_id": "BBB8A6C8G",
+    "attachments": [{
+      "fallback": "Print progress: 25% - chainmail_flowalistik.gcode, Elapsed: 5 hours 10 minutes, Remaining: 12 hours 43 minutes",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_d1040228bc6111e88783a8206613cf4f.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 104017,
+      "text": "*File* chainmail_flowalistik.gcode (29.6MB via OctoPrint)\n*Elapsed* 5 hours 10 minutes\n*Remaining* 12 hours 43 minutes\n*ETA* 07:58 tomorrow",
+      "pretext": ":heavy_minus_sign: Print progress 25% :horse_racing:",
+      "footer": "Printer: Printing, Bed: 59.9\u00b0C\/60.0\u00b0C, Nozzle: 209.9\u00b0C\/210.0\u00b0C, Nozzle Height: 1.10mm",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1537380187.000100",
+    "username": "octobot",
+    "bot_id": "BBB8A6C8G",
+    "attachments": [{
+      "fallback": "Print started: chainmail_flowalistik.gcode, Estimate: 15 hours 6 minutes",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_6cf51751bc3611e88338a8206613cf4f.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 129955,
+      "text": "*File* chainmail_flowalistik.gcode (29.6MB via OctoPrint)\n*Estimated print time* 15 hours 6 minutes\n*ETA* 05:10 tomorrow",
+      "pretext": ":heavy_minus_sign:  A new print has started :rocket:",
+      "footer": "Printer: Printing, Bed: 61.3\u00b0C\/60.0\u00b0C, Nozzle: 214.5\u00b0C\/215.0\u00b0C",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1537283339.000100",
+    "username": "octobot",
+    "bot_id": "BBB8A6C8G",
+    "attachments": [{
+      "fallback": "Print cancelled: 1Coin_Be_Curious_1UP_.10mm_3HR.gcode",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_f003a723bb5411e8a955a8206613cf4f.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 108545,
+      "text": "*File* 1Coin_Be_Curious_1UP_.10mm_3HR.gcode (5.5MB via OctoPrint)",
+      "pretext": ":heavy_minus_sign:  Print cancelled :no_good:",
+      "footer": "Printer: Cancelling, Bed: 60.1\u00b0C\/60.0\u00b0C, Nozzle: 211.4\u00b0C\/210.0\u00b0C",
+      "id": 1,
+      "color": "daa038",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1537276858.000100",
+    "username": "octobot",
+    "bot_id": "BBB8A6C8G",
+    "attachments": [{
+      "fallback": "Print progress: 45% - 1Coin_Be_Curious_1UP_.10mm_3HR.gcode, Elapsed: 2 hours 6 minutes, Remaining: 2 hours 29 minutes",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_75799d91bb5411e8839ca8206613cf4f.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 107313,
+      "text": "*File* 1Coin_Be_Curious_1UP_.10mm_3HR.gcode (5.5MB via OctoPrint)\n*Elapsed* 2 hours 6 minutes\n*Remaining* 2 hours 29 minutes\n*ETA* 13:36 today",
+      "pretext": ":heavy_minus_sign: Print progress 45% :horse_racing:",
+      "footer": "Printer: Printing, Bed: 59.9\u00b0C\/60.0\u00b0C, Nozzle: 210.2\u00b0C\/210.0\u00b0C, Nozzle Height: 4.50mm",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1537275572.000100",
+    "username": "octobot",
+    "bot_id": "BBB8A6C8G",
+    "attachments": [{
+      "fallback": "Print started: 1Coin_Be_Curious_1UP_.10mm_3HR.gcode, Estimate: 4 hours 3 minutes",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_da947dc5bb4211e88f72a8206613cf4f.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 114783,
+      "text": "*File* 1Coin_Be_Curious_1UP_.10mm_3HR.gcode (5.5MB via OctoPrint)\n*Estimated print time* 4 hours 3 minutes\n*ETA* 13:04 today",
+      "pretext": ":heavy_minus_sign:  A new print has started :rocket:",
+      "footer": "Printer: Printing, Bed: 22.7\u00b0C\/0.0\u00b0C, Nozzle: 22.4\u00b0C\/0.0\u00b0C",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1537203358.000100",
+    "username": "octobot",
+    "bot_id": "BBB8A6C8G",
+    "attachments": [{
+      "fallback": "Print finished successfully: 1Coin_Be_Curious_1UP_.10mm_3HR.gcode, Time: 4 hours 3 minutes",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_b6790ee3ba9a11e882c9a8206613cf4f.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 122218,
+      "text": "*File* 1Coin_Be_Curious_1UP_.10mm_3HR.gcode (5.5MB via OctoPrint)\n*Estimated print time* 4 hours 3 minutes\n*Final print time* 4 hours 3 minutes",
+      "pretext": ":heavy_minus_sign:  Print finished successfully :dancer:",
+      "footer": "Printer: Finishing, Bed: 60.0\u00b0C\/0.0\u00b0C, Nozzle: 210.2\u00b0C\/0.0\u00b0C, Nozzle Height: 41.70mm",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1537190004.000100",
+    "username": "octobot",
+    "bot_id": "BBB8A6C8G",
+    "attachments": [{
+      "fallback": "Print progress: 95% - 1Coin_Be_Curious_1UP_.10mm_3HR.gcode, Elapsed: 3 hours 49 minutes, Remaining: 11 minutes",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_c5c0ade6ba9811e8a713a8206613cf4f.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 123809,
+      "text": "*File* 1Coin_Be_Curious_1UP_.10mm_3HR.gcode (5.5MB via OctoPrint)\n*Elapsed* 3 hours 49 minutes\n*Remaining* 11 minutes\n*ETA* 12:55 today",
+      "pretext": ":heavy_minus_sign: Print progress 95% :horse_racing:",
+      "footer": "Printer: Printing, Bed: 60.1\u00b0C\/60.0\u00b0C, Nozzle: 211.3\u00b0C\/210.0\u00b0C, Nozzle Height: 8.10mm",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1537188722.000100",
+    "username": "octobot",
+    "bot_id": "BBB8A6C8G",
+    "attachments": [{
+      "fallback": "Print started: 1Coin_Be_Curious_1UP_.10mm_3HR.gcode, Estimate: 4 hours 3 minutes",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_a4730d2eba7811e89961a8206613cf4f.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 94278,
+      "text": "*File* 1Coin_Be_Curious_1UP_.10mm_3HR.gcode (5.5MB via OctoPrint)\n*Estimated print time* 4 hours 3 minutes\n*ETA* 12:57 today",
+      "pretext": ":heavy_minus_sign:  A new print has started :rocket:",
+      "footer": "Printer: Printing, Bed: 22.3\u00b0C\/0.0\u00b0C, Nozzle: 22.4\u00b0C\/0.0\u00b0C",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }, {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "",
+    "ts": "1536772379.000100",
+    "username": "octobot",
+    "bot_id": "BBB8A6C8G",
+    "attachments": [{
+      "fallback": "Print finished successfully: 1Coin_Be_Curious_1UP_.10mm_3HR.gcode, Time: 4 hours 3 minutes",
+      "image_url": "https:\/\/minio.jefftherobot.com\/octoprints\/Snapshot_46c0bfabb6af11e8a8d6a8206613cf4f.png",
+      "image_width": 1280,
+      "image_height": 720,
+      "image_bytes": 124115,
+      "text": "*File* 1Coin_Be_Curious_1UP_.10mm_3HR.gcode (5.5MB via OctoPrint)\n*Estimated print time* 4 hours 2 minutes\n*Final print time* 4 hours 3 minutes",
+      "pretext": ":heavy_minus_sign:  Print finished successfully :dancer:",
+      "footer": "Printer: Finishing, Bed: 60.1\u00b0C\/0.0\u00b0C, Nozzle: 210.1\u00b0C\/0.0\u00b0C, Nozzle Height: 41.70mm",
+      "id": 1,
+      "color": "2eb886",
+      "mrkdwn_in": ["text", "pretext"]
+    }]
+  }],
+  "has_more": true
+}
